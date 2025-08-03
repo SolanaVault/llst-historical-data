@@ -1,7 +1,7 @@
 {
   "llstMint": "DoY8mexunaSWq7eeLetU6nKaGXCdiiWJzRusakHL9e4u",
-  "startTime": "2025-07-04T07:00:00+00:00[UTC]",
-  "endTime": "2025-08-03T06:00:00+00:00[UTC]",
+  "startTime": "2025-07-04T08:00:00+00:00[UTC]",
+  "endTime": "2025-08-03T07:00:00+00:00[UTC]",
   "dataPoints": [
     {
       "timestamp": "2025-08-01T03:00:00+00:00[UTC]",
@@ -1184,6 +1184,29 @@
         "collateralReserveConversions": {
           "collateralMintTotalSupply": "390202123345133",
           "underlyingSupply": 390282748976869
+        },
+        "ltv": 0.7301311449875001,
+        "equityInCollateralToken": "39816376",
+        "equityInCollateralUnderlyingToken": "39824603",
+        "leverageMultiplier": 3.7055035489504022,
+        "equityValueUSD": 7.060189357190385
+      }
+    },
+    {
+      "timestamp": "2025-08-03T07:00:00+00:00[UTC]",
+      "llstMint": "DoY8mexunaSWq7eeLetU6nKaGXCdiiWJzRusakHL9e4u",
+      "kamoteTotalSupply": "39968158",
+      "blockHeight": 357551171,
+      "obligationSummary": {
+        "position": {
+          "borrowAmount": 118717291.7137138,
+          "borrowMarketValue": 19.10136736214045,
+          "collateralAmount": "147539726",
+          "collateralMarketValue": 26.161556719330836
+        },
+        "collateralReserveConversions": {
+          "collateralMintTotalSupply": "390202123345133",
+          "underlyingSupply": 390282748979263
         },
         "ltv": 0.7301311449875001,
         "equityInCollateralToken": "39816376",
