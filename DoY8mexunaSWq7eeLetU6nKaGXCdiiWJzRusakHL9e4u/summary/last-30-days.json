@@ -1,54 +1,8 @@
 {
   "llstMint": "DoY8mexunaSWq7eeLetU6nKaGXCdiiWJzRusakHL9e4u",
-  "startTime": "2025-08-19T02:00:00+00:00[UTC]",
-  "endTime": "2025-09-18T01:00:00+00:00[UTC]",
+  "startTime": "2025-08-19T04:00:00+00:00[UTC]",
+  "endTime": "2025-09-18T03:00:00+00:00[UTC]",
   "dataPoints": [
-    {
-      "timestamp": "2025-08-19T02:00:00+00:00[UTC]",
-      "llstMint": "DoY8mexunaSWq7eeLetU6nKaGXCdiiWJzRusakHL9e4u",
-      "kamoteTotalSupply": "40971760",
-      "blockHeight": 361002961,
-      "obligationSummary": {
-        "position": {
-          "borrowAmount": 121702307.67775358,
-          "borrowMarketValue": 19.617501055880908,
-          "collateralAmount": "151244459",
-          "collateralMarketValue": 26.86757548652595
-        },
-        "collateralReserveConversions": {
-          "collateralMintTotalSupply": "498681813140326",
-          "underlyingSupply": 498784854442740
-        },
-        "ltv": 0.730155241053256,
-        "equityInCollateralToken": "40812524",
-        "equityInCollateralUnderlyingToken": "40820956",
-        "leverageMultiplier": 3.7058344357073763,
-        "equityValueUSD": 7.250074430645043
-      }
-    },
-    {
-      "timestamp": "2025-08-19T03:00:00+00:00[UTC]",
-      "llstMint": "DoY8mexunaSWq7eeLetU6nKaGXCdiiWJzRusakHL9e4u",
-      "kamoteTotalSupply": "40971760",
-      "blockHeight": 361018157,
-      "obligationSummary": {
-        "position": {
-          "borrowAmount": 121702307.67775358,
-          "borrowMarketValue": 19.617501055880908,
-          "collateralAmount": "151244459",
-          "collateralMarketValue": 26.86757548652595
-        },
-        "collateralReserveConversions": {
-          "collateralMintTotalSupply": "498681813140326",
-          "underlyingSupply": 498784854445490
-        },
-        "ltv": 0.730155241053256,
-        "equityInCollateralToken": "40812524",
-        "equityInCollateralUnderlyingToken": "40820956",
-        "leverageMultiplier": 3.7058344357073763,
-        "equityValueUSD": 7.250074430645043
-      }
-    },
     {
       "timestamp": "2025-08-19T04:00:00+00:00[UTC]",
       "llstMint": "DoY8mexunaSWq7eeLetU6nKaGXCdiiWJzRusakHL9e4u",
@@ -16485,6 +16439,51 @@
       "llstMint": "DoY8mexunaSWq7eeLetU6nKaGXCdiiWJzRusakHL9e4u",
       "kamoteTotalSupply": "40971760",
       "blockHeight": 367544809,
+      "obligationSummary": {
+        "position": {
+          "borrowAmount": 121702307.67775358,
+          "borrowMarketValue": 19.617501055880908,
+          "collateralAmount": "151244459",
+          "collateralMarketValue": 26.86757548652595
+        },
+        "collateralReserveConversions": {
+          "collateralMintTotalSupply": "494434844864814",
+          "underlyingSupply": 494537009962120
+        },
+        "ltv": 0.730155241053256,
+        "equityInCollateralToken": "40812524",
+        "equityInCollateralUnderlyingToken": "40820957",
+        "leverageMultiplier": 3.7058344357073763,
+        "equityValueUSD": 7.250074430645043
+      }
+    },
+    {
+      "timestamp": "2025-09-18T02:00:00+00:00[UTC]",
+      "llstMint": "DoY8mexunaSWq7eeLetU6nKaGXCdiiWJzRusakHL9e4u",
+      "kamoteTotalSupply": "40971760",
+      "obligationSummary": {
+        "position": {
+          "borrowAmount": 121702307.67775358,
+          "borrowMarketValue": 19.617501055880908,
+          "collateralAmount": "151244459",
+          "collateralMarketValue": 26.86757548652595
+        },
+        "collateralReserveConversions": {
+          "collateralMintTotalSupply": "494434844864814",
+          "underlyingSupply": 494537009962120
+        },
+        "ltv": 0.730155241053256,
+        "equityInCollateralToken": "40812524",
+        "equityInCollateralUnderlyingToken": "40820957",
+        "leverageMultiplier": 3.7058344357073763,
+        "equityValueUSD": 7.250074430645043
+      }
+    },
+    {
+      "timestamp": "2025-09-18T03:00:00+00:00[UTC]",
+      "llstMint": "DoY8mexunaSWq7eeLetU6nKaGXCdiiWJzRusakHL9e4u",
+      "kamoteTotalSupply": "40971760",
+      "blockHeight": 367555079,
       "obligationSummary": {
         "position": {
           "borrowAmount": 121702307.67775358,
