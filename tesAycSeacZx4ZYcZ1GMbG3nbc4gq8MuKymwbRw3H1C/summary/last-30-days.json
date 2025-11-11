@@ -1,31 +1,8 @@
 {
   "llstMint": "tesAycSeacZx4ZYcZ1GMbG3nbc4gq8MuKymwbRw3H1C",
-  "startTime": "2025-10-12T14:00:00+00:00[UTC]",
-  "endTime": "2025-11-11T13:00:00+00:00[UTC]",
+  "startTime": "2025-10-12T15:00:00+00:00[UTC]",
+  "endTime": "2025-11-11T14:00:00+00:00[UTC]",
   "dataPoints": [
-    {
-      "timestamp": "2025-10-12T14:00:00+00:00[UTC]",
-      "llstMint": "tesAycSeacZx4ZYcZ1GMbG3nbc4gq8MuKymwbRw3H1C",
-      "kamoteTotalSupply": "2999375",
-      "blockHeight": 372895817,
-      "obligationSummary": {
-        "position": {
-          "borrowAmount": 6219153.999417953,
-          "borrowMarketValue": 1.3894723069405346,
-          "collateralAmount": "8594208",
-          "collateralMarketValue": 2.1339850107501985
-        },
-        "collateralReserveConversions": {
-          "collateralMintTotalSupply": "460889551193009",
-          "underlyingSupply": 460984785621612
-        },
-        "ltv": 0.6511162449318555,
-        "equityInCollateralToken": "2998379",
-        "equityInCollateralUnderlyingToken": "2998998",
-        "leverageMultiplier": 2.8662842149376617,
-        "equityValueUSD": 0.744512703809664
-      }
-    },
     {
       "timestamp": "2025-10-12T15:00:00+00:00[UTC]",
       "llstMint": "tesAycSeacZx4ZYcZ1GMbG3nbc4gq8MuKymwbRw3H1C",
@@ -16482,6 +16459,29 @@
       "llstMint": "tesAycSeacZx4ZYcZ1GMbG3nbc4gq8MuKymwbRw3H1C",
       "kamoteTotalSupply": "917662894",
       "blockHeight": 379387254,
+      "obligationSummary": {
+        "position": {
+          "borrowAmount": 4104496325.4764833,
+          "borrowMarketValue": 660.3570330678759,
+          "collateralAmount": "4582936309",
+          "collateralMarketValue": 825.2086217844509
+        },
+        "collateralReserveConversions": {
+          "collateralMintTotalSupply": "411507348627742",
+          "underlyingSupply": 411592379851412
+        },
+        "ltv": 0.8002304091781107,
+        "equityInCollateralToken": "915531311",
+        "equityInCollateralUnderlyingToken": "915720490",
+        "leverageMultiplier": 5.005766873155288,
+        "equityValueUSD": 164.85158871657495
+      }
+    },
+    {
+      "timestamp": "2025-11-11T14:00:00+00:00[UTC]",
+      "llstMint": "tesAycSeacZx4ZYcZ1GMbG3nbc4gq8MuKymwbRw3H1C",
+      "kamoteTotalSupply": "917662894",
+      "blockHeight": 379395181,
       "obligationSummary": {
         "position": {
           "borrowAmount": 4104496325.4764833,
