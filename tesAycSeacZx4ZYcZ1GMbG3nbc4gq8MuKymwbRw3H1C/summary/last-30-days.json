@@ -1,75 +1,8 @@
 {
   "llstMint": "tesAycSeacZx4ZYcZ1GMbG3nbc4gq8MuKymwbRw3H1C",
-  "startTime": "2025-10-27T23:00:00+00:00[UTC]",
-  "endTime": "2025-11-26T22:00:00+00:00[UTC]",
+  "startTime": "2025-10-28T00:00:00+00:00[UTC]",
+  "endTime": "2025-11-26T23:00:00+00:00[UTC]",
   "dataPoints": [
-    {
-      "timestamp": "2025-10-27T23:00:00+00:00[UTC]",
-      "llstMint": "tesAycSeacZx4ZYcZ1GMbG3nbc4gq8MuKymwbRw3H1C",
-      "kamoteTotalSupply": "20021787",
-      "blockHeight": 376237794,
-      "obligationSummary": {
-        "position": {
-          "borrowAmount": 41784020.10364529,
-          "borrowMarketValue": 8.33547330437224,
-          "collateralAmount": "57369930",
-          "collateralMarketValue": 12.79269523040861
-        },
-        "collateralReserveConversions": {
-          "collateralMintTotalSupply": "453439115307443",
-          "underlyingSupply": 453532810667223
-        },
-        "ltv": 0.65158069931648,
-        "equityInCollateralToken": "19988790",
-        "equityInCollateralUnderlyingToken": "19992920",
-        "leverageMultiplier": 2.870105066046071,
-        "equityValueUSD": 4.45722192603637
-      }
-    },
-    {
-      "timestamp": "2025-10-28T00:00:00+00:00[UTC]",
-      "llstMint": "tesAycSeacZx4ZYcZ1GMbG3nbc4gq8MuKymwbRw3H1C",
-      "kamoteTotalSupply": "20021787",
-      "obligationSummary": {
-        "position": {
-          "borrowAmount": 41784020.10364529,
-          "borrowMarketValue": 8.33547330437224,
-          "collateralAmount": "57369930",
-          "collateralMarketValue": 12.79269523040861
-        },
-        "collateralReserveConversions": {
-          "collateralMintTotalSupply": "453439115307443",
-          "underlyingSupply": 453532810667223
-        },
-        "ltv": 0.65158069931648,
-        "equityInCollateralToken": "19988790",
-        "equityInCollateralUnderlyingToken": "19992920",
-        "leverageMultiplier": 2.870105066046071,
-        "equityValueUSD": 4.45722192603637
-      }
-    },
-    {
-      "timestamp": "2025-10-28T01:00:00+00:00[UTC]",
-      "llstMint": "tesAycSeacZx4ZYcZ1GMbG3nbc4gq8MuKymwbRw3H1C",
-      "kamoteTotalSupply": "20021787",
-      "obligationSummary": {
-        "position": {
-          "borrowAmount": 41784020.10364529,
-          "borrowMarketValue": 8.33547330437224,
-          "collateralAmount": "57369930",
-          "collateralMarketValue": 12.79269523040861
-        },
-        "collateralReserveConversions": {
-          "collateralMintTotalSupply": "453439115307443",
-          "underlyingSupply": 453532810667223
-        },
-        "ltv": 0.65158069931648,
-        "equityInCollateralToken": "19988790",
-        "equityInCollateralUnderlyingToken": "19992920",
-        "leverageMultiplier": 2.870105066046071,
-        "equityValueUSD": 4.45722192603637
-      }
-    },
     {
       "timestamp": "2025-10-28T02:00:00+00:00[UTC]",
       "llstMint": "tesAycSeacZx4ZYcZ1GMbG3nbc4gq8MuKymwbRw3H1C",
@@ -16476,6 +16409,29 @@
       "llstMint": "tesAycSeacZx4ZYcZ1GMbG3nbc4gq8MuKymwbRw3H1C",
       "kamoteTotalSupply": "917662894",
       "blockHeight": 382734169,
+      "obligationSummary": {
+        "position": {
+          "borrowAmount": 4104496325.4764833,
+          "borrowMarketValue": 660.3570330678759,
+          "collateralAmount": "4582936309",
+          "collateralMarketValue": 825.2086217844509
+        },
+        "collateralReserveConversions": {
+          "collateralMintTotalSupply": "420104271846729",
+          "underlyingSupply": 420191079858002
+        },
+        "ltv": 0.8002304091781107,
+        "equityInCollateralToken": "915531311",
+        "equityInCollateralUnderlyingToken": "915720491",
+        "leverageMultiplier": 5.005766873155288,
+        "equityValueUSD": 164.85158871657495
+      }
+    },
+    {
+      "timestamp": "2025-11-26T23:00:00+00:00[UTC]",
+      "llstMint": "tesAycSeacZx4ZYcZ1GMbG3nbc4gq8MuKymwbRw3H1C",
+      "kamoteTotalSupply": "917662894",
+      "blockHeight": 382743201,
       "obligationSummary": {
         "position": {
           "borrowAmount": 4104496325.4764833,
