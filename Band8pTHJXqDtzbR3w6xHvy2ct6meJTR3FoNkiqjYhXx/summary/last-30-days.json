@@ -1,7 +1,7 @@
 {
   "llstMint": "Band8pTHJXqDtzbR3w6xHvy2ct6meJTR3FoNkiqjYhXx",
-  "startTime": "2026-01-05T21:00:00+00:00[UTC]",
-  "endTime": "2026-02-04T20:00:00+00:00[UTC]",
+  "startTime": "2026-01-05T22:00:00+00:00[UTC]",
+  "endTime": "2026-02-04T21:00:00+00:00[UTC]",
   "dataPoints": [
     {
       "timestamp": "2026-01-08T04:00:00+00:00[UTC]",
@@ -15166,6 +15166,29 @@
         "collateralReserveConversions": {
           "collateralMintTotalSupply": "121472571724420",
           "underlyingSupply": 121497672678992
+        },
+        "ltv": 0.8001235498271893,
+        "equityInCollateralToken": "89414208",
+        "equityInCollateralUnderlyingToken": "89432684",
+        "leverageMultiplier": 5.003090654929143,
+        "equityValueUSD": 12.49079537954244
+      }
+    },
+    {
+      "timestamp": "2026-02-04T21:00:00+00:00[UTC]",
+      "llstMint": "Band8pTHJXqDtzbR3w6xHvy2ct6meJTR3FoNkiqjYhXx",
+      "kamoteTotalSupply": "89469478",
+      "blockHeight": 398086410,
+      "obligationSummary": {
+        "position": {
+          "borrowAmount": 405773095.1495031,
+          "borrowMarketValue": 50.001786256478454,
+          "collateralAmount": "447347390",
+          "collateralMarketValue": 62.492581636020894
+        },
+        "collateralReserveConversions": {
+          "collateralMintTotalSupply": "121472571724420",
+          "underlyingSupply": 121497672680084
         },
         "ltv": 0.8001235498271893,
         "equityInCollateralToken": "89414208",
