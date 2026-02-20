@@ -1,31 +1,8 @@
 {
   "llstMint": "Band8pTHJXqDtzbR3w6xHvy2ct6meJTR3FoNkiqjYhXx",
-  "startTime": "2026-01-21T14:00:00+00:00[UTC]",
-  "endTime": "2026-02-20T13:00:00+00:00[UTC]",
+  "startTime": "2026-01-21T15:00:00+00:00[UTC]",
+  "endTime": "2026-02-20T14:00:00+00:00[UTC]",
   "dataPoints": [
-    {
-      "timestamp": "2026-01-21T14:00:00+00:00[UTC]",
-      "llstMint": "Band8pTHJXqDtzbR3w6xHvy2ct6meJTR3FoNkiqjYhXx",
-      "kamoteTotalSupply": "88469687",
-      "blockHeight": 394990185,
-      "obligationSummary": {
-        "position": {
-          "borrowAmount": 399999990.00000006,
-          "borrowMarketValue": 54.5377947805551,
-          "collateralAmount": "442348430",
-          "collateralMarketValue": 68.1722436628371
-        },
-        "collateralReserveConversions": {
-          "collateralMintTotalSupply": "438292750503452",
-          "underlyingSupply": 438383318246818
-        },
-        "ltv": 0.7999999978038778,
-        "equityInCollateralToken": "88469686",
-        "equityInCollateralUnderlyingToken": "88487967",
-        "leverageMultiplier": 4.999999945096945,
-        "equityValueUSD": 13.634448882282001
-      }
-    },
     {
       "timestamp": "2026-01-21T15:00:00+00:00[UTC]",
       "llstMint": "Band8pTHJXqDtzbR3w6xHvy2ct6meJTR3FoNkiqjYhXx",
@@ -16358,6 +16335,29 @@
         "equityInCollateralUnderlyingToken": "1085410813",
         "leverageMultiplier": 5.021629057784772,
         "equityValueUSD": 100.92291433749205
+      }
+    },
+    {
+      "timestamp": "2026-02-20T14:00:00+00:00[UTC]",
+      "llstMint": "Band8pTHJXqDtzbR3w6xHvy2ct6meJTR3FoNkiqjYhXx",
+      "kamoteTotalSupply": "1089881300",
+      "blockHeight": 401550119,
+      "obligationSummary": {
+        "position": {
+          "borrowAmount": 4965211412.130977,
+          "borrowMarketValue": 408.5375949901367,
+          "collateralAmount": "5449406464",
+          "collateralMarketValue": 510.1781806475592
+        },
+        "collateralReserveConversions": {
+          "collateralMintTotalSupply": "115081836722907",
+          "underlyingSupply": 115105617515679
+        },
+        "ltv": 0.8007743382352964,
+        "equityInCollateralToken": "1085661609",
+        "equityInCollateralUnderlyingToken": "1085885952",
+        "leverageMultiplier": 5.019433697156217,
+        "equityValueUSD": 101.64058565742249
       }
     }
   ]
